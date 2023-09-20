@@ -6,6 +6,7 @@ import { theme } from "../styles/theme";
 import Footer from "../components/core/Footer";
 import "@web3inbox/widget-react/dist/compiled.css";
 
+//Chore test comment
 import { createWeb3Modal, defaultWagmiConfig } from "@web3modal/wagmi/react";
 import Navbar from "../components/core/Navbar";
 
